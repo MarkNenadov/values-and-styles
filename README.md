@@ -61,6 +61,7 @@ My personal developer value and style guide.
 
 #### Other
 * Use Typescript and TailwindCSS
+* Imports should always be on a single line
 * De-structure obsessively (but don't go overboard)
 * Ordinarily de-structure your props in the component signature 
     * For instance: `MyComponent( {a,b,c}: MyProps )`
