@@ -6,10 +6,15 @@ My personal developer value and style guide.
 ## Values
 
 * Be curious
+    * Have a seeker mindset
+    * Developers need to be students, forever students
 * Question things. 
     * Especially "why" and "what"
     * Most questions aren't dumb: Being afraid to ask a question is dumb
 * Share by default
+* Keep it simple
+    * Be biased towards self-regulating processes
+* Figure out what you like doing, and then lean into it
 * Don't take yourself too seriously
     * Hold your own conclusions, ideas, and plans loosely
     * Be willing to throw it away
