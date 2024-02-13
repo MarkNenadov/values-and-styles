@@ -14,7 +14,9 @@ My personal developer value and style guide.
 * Share by default
 * Keep it simple
     * Be biased towards self-regulating processes
-* Figure out what you like doing, and then lean into it
+* Experiment
+    * Figure out what you like doing, and then lean into it
+    * Plant some seed, see what grows, then prune the graden
 * Don't take yourself too seriously
     * Hold your own conclusions, ideas, and plans loosely
     * Be willing to throw it away
