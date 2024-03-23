@@ -8,12 +8,17 @@ My personal developer value and style guide.
 * Be curious
     * Have a seeker mindset
     * Developers need to be students, forever students
-* Question things. 
+* Question things
     * Especially "why" and "what"
     * Most questions aren't dumb: Being afraid to ask a question is dumb
 * Share by default
 * Keep it simple
     * Be biased towards self-regulating processes
+ * Keep it up-to-date
+    * Don't be precious--sometimes you have to break it to improve it   
+    * Follow evergreen paradigm
+    * Stagnant software is a liability. If it isn't worth updating, unship it
+    * Especially keep dependencies up-to-date
 * Experiment
     * Figure out what you like doing, and then lean into it
     * Plant some seed, see what grows, then prune the graden
@@ -30,7 +35,7 @@ My personal developer value and style guide.
 * Keep It Simple
 * Someone is going to have to read this, maybe even a future you
 * Be as idiomatic as you can
-* Make it as immutable as you ca
+* Make it as immutable as you can
 ---
 
 ### Kotlin
