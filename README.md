@@ -13,8 +13,8 @@ My personal developer value and style guide.
     * Most questions aren't dumb: Being afraid to ask a question is dumb
 * Share by default
 * Keep it simple
-    * Be biased towards self-regulating processes
- * Keep it up-to-date
+    * Be biased towards self-regulating processes\
+* Keep it up-to-date
     * Don't be precious--sometimes you have to break it to improve it   
     * Follow evergreen paradigm
     * Stagnant software is a liability. If it isn't worth updating, unship it
@@ -29,7 +29,7 @@ My personal developer value and style guide.
 
 ---
 
-## Styles and Best Practices
+   ## Styles and Best Practices
 
 ### Operating Principles
 * Keep It Simple
@@ -37,6 +37,11 @@ My personal developer value and style guide.
 * Be as idiomatic as you can
 * Make it as immutable as you can
 ---
+
+### Cross-language
+
+* Generally, be as idiomatic as possible
+* Use trailing comma on last argument in multi-line method calls
 
 ### Kotlin
 
@@ -83,4 +88,5 @@ My personal developer value and style guide.
 
 ### Ruby
 
-* fill in
+* Don't forget that if and case are expressions
+* Remove parenthesis on zero parameter method calls
